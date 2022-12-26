@@ -1,1 +1,6 @@
+console.log("Hello Developer") 
+console.log("How are you") 
 console.log("Hello")
+console.log("Hello Myfreind")
+console.log("What is doing")
+console.log("Hello Wold")
